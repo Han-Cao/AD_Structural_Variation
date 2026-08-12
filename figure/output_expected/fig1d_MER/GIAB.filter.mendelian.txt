@@ -1,0 +1,2 @@
+# [1]nOK	[2]nBad	[3]nSkipped	[4]Trio (mother,father,child)
+25898	646	2927	GIAB_mother,GIAB_father,GIAB_son

@@ -1,0 +1,2 @@
+# [1]nOK	[2]nBad	[3]nSkipped	[4]Trio (mother,father,child)
+82733	6789	787	GIAB_mother,GIAB_father,GIAB_son

@@ -1,0 +1,13 @@
+Data from GEO:
+    control 1: GSM6620991
+    control 2: GSM6620992
+    siRNA 1: GSM6620995
+    siRNA 2: GSM6620996
+
+Gene expression (TPM):
+            MAZ         FAM193B
+Control 1:  18.8729921  5.233013
+Control 2:  19.9789261  5.184841
+siRNA 1:    0.3532349   2.801087
+siRNA 2:    0.3245032   2.783514
+

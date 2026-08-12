@@ -1,0 +1,2 @@
+# [1]nOK	[2]nBad	[3]nSkipped	[4]Trio (mother,father,child)
+24674	530	2082	HG00512,HG00513,HG00514

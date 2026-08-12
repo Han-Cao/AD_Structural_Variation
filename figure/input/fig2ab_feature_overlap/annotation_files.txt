@@ -1,0 +1,16 @@
+feature	file
+gene_all	../data_processing/03.SV_annotation/input/GRCh38_gene_all.clean.merge.sort.bed
+protein_coding	../data_processing/03.SV_annotation/input/GRCh38_gene_protein_coding.clean.merge.sort.bed
+lncRNA	../data_processing/03.SV_annotation/input/GRCh38_gene_lncRNA.clean.merge.sort.bed
+small_RNA	../data_processing/03.SV_annotation/input/GRCh38_gene_small_RNA.clean.merge.sort.bed
+IG_TR	../data_processing/03.SV_annotation/input/GRCh38_gene_IG_TR.clean.merge.sort.bed
+pseudogene	../data_processing/03.SV_annotation/input/GRCh38_gene_pseudogene.clean.merge.sort.bed
+intergenic	../data_processing/03.SV_annotation/input/GRCh38_gene_intergenic.clean.merge.sort.bed
+exon	../data_processing/03.SV_annotation/input/GRCh38_MANE_coding_exon.clean.merge.sort.bed
+intron	../data_processing/03.SV_annotation/input/GRCh38_MANE_intron.clean.merge.sort.bed
+UTR5	../data_processing/03.SV_annotation/input/GRCh38_MANE_UTR5.clean.merge.sort.bed
+UTR3	../data_processing/03.SV_annotation/input/GRCh38_MANE_UTR3.clean.merge.sort.bed
+PLS	../data_processing/03.SV_annotation/input/GRCh38_PLS.clean.merge.sort.bed
+pELS	../data_processing/03.SV_annotation/input/GRCh38_pELS.clean.merge.sort.bed
+dELS	../data_processing/03.SV_annotation/input/GRCh38_dELS.clean.merge.sort.bed
+CTCF	../data_processing/03.SV_annotation/input/GRCh38_CTCF.clean.merge.sort.bed

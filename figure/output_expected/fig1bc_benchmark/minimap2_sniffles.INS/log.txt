@@ -1,0 +1,63 @@
+2026-01-28 10:43:42,398 [INFO] Running /home/hancao/miniconda3/envs/SV_reproduce/bin/truvari bench -b input/fig1bc_benchmark//HG002_SVs_Tier1_v0.6.PASS.INS.vcf.gz -c input/fig1bc_benchmark//minimap2_sniffles.INS.vcf.gz -o output/fig1bc_benchmark//minimap2_sniffles.INS --pctsim 0 -r 1000 --no-ref c --includebed input/fig1bc_benchmark//HG002_SVs_Tier1_v0.6.bed
+2026-01-28 10:43:42,398 [INFO] Params:
+{
+    "base": "input/fig1bc_benchmark//HG002_SVs_Tier1_v0.6.PASS.INS.vcf.gz",
+    "comp": "input/fig1bc_benchmark//minimap2_sniffles.INS.vcf.gz",
+    "output": "output/fig1bc_benchmark//minimap2_sniffles.INS",
+    "reference": null,
+    "giabreport": false,
+    "debug": false,
+    "prog": false,
+    "refdist": 1000,
+    "unroll": false,
+    "pctsim": 0.0,
+    "minhaplen": 50,
+    "pctsize": 0.7,
+    "pctovl": 0.0,
+    "typeignore": false,
+    "dup_to_ins": false,
+    "use_lev": false,
+    "chunksize": 1000,
+    "gtcomp": false,
+    "bSample": null,
+    "cSample": null,
+    "sizemin": 50,
+    "sizefilt": 30,
+    "sizemax": 50000,
+    "passonly": false,
+    "no_ref": "c",
+    "includebed": "input/fig1bc_benchmark//HG002_SVs_Tier1_v0.6.bed",
+    "extend": 0,
+    "multimatch": false
+}
+2026-01-28 10:43:42,399 [INFO] Truvari version: 3.5.0
+2026-01-28 10:43:43,403 [INFO] Including 34830 bed regions
+2026-01-28 10:43:54,984 [INFO] Zipped 21440 variants Counter({'comp': 15997, 'base': 5443})
+2026-01-28 10:43:54,985 [INFO] 7824 chunks of 21440 variants Counter({'__filtered': 8219, 'comp': 7779, 'base': 5442})
+2026-01-28 10:43:54,987 [INFO] Stats: {
+    "TP-base": 5226,
+    "TP-call": 5226,
+    "FP": 2553,
+    "FN": 216,
+    "precision": 0.6718087157732356,
+    "recall": 0.960308710033076,
+    "f1": 0.7905604719764013,
+    "base cnt": 5442,
+    "call cnt": 7779,
+    "TP-call_TP-gt": 4978,
+    "TP-call_FP-gt": 248,
+    "TP-base_TP-gt": 4978,
+    "TP-base_FP-gt": 248,
+    "gt_concordance": 0.9525449674703406,
+    "gt_matrix": {
+        "(1, 1)": {
+            "(1, 1)": 2514,
+            "(0, 1)": 206
+        },
+        "(0, 1)": {
+            "(0, 1)": 2464,
+            "(1, 1)": 42
+        }
+    }
+}
+2026-01-28 10:43:55,367 [INFO] Finished bench

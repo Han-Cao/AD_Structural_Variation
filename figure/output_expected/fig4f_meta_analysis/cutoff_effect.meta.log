@@ -1,0 +1,11 @@
+Arguments:  -input input/fig4f_meta_analysis/cutoff_effect.txt -output output/fig4f_meta_analysis/cutoff_effect.meta.txt -pvalue_table input/fig4f_meta_analysis/HanEskinPvalueTable.txt -log output/fig4f_meta_analysis/cutoff_effect.meta.log
+ Input File: input/fig4f_meta_analysis/cutoff_effect.txt
+Output File: output/fig4f_meta_analysis/cutoff_effect.meta.txt
+Log File: output/fig4f_meta_analysis/cutoff_effect.meta.log
+p-value Table File: input/fig4f_meta_analysis/HanEskinPvalueTable.txt
+Number of SNPs analyzed: 12
+Maximum number of studies: 2
+Specified lambda for   mean effect part (default = 1.0): 1.000000
+Specified lambda for heterogeneity part (default = 1.0): 1.000000
+Newly calculated inflation factor lambda for   mean effect part: 67.253281
+Newly calculated inflation factor lambda for heterogeneity part: 0.000000

@@ -1,0 +1,4 @@
+1KG.filter 0.0210284
+1KG.raw 0.0617307
+GIAB.filter 0.0243369
+GIAB.raw 0.0758361

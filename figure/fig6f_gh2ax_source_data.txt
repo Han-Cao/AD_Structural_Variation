@@ -1,0 +1,6 @@
+# Average gH2AX foci per nucleus
+# The unpaired t-test was conducted in Prism8
+Rep   Control     FAM193B OE
+1     12.86588    33.26491
+2     11.18199    39.24351
+3     15.24755    27.03776
