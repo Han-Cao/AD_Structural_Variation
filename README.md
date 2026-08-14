@@ -31,4 +31,4 @@ Code details and instructions are provided in the `README.md` file within each d
 Due to GitHub file size limits, VCF files and GWAS summary statistics are available only in the [Zenodo release](https://doi.org/10.5281/zenodo.14851280).
 
 ## License
-[MIT License](./LICENSE)
+All scripts are distributed under the [MIT License](./LICENSE-CODE). All data are distributed under the [CC BY 4.0 License](./LICENSE-DATA).
